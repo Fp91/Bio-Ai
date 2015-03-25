@@ -1,1 +1,1 @@
-# Bio-AI
+# Bio-Inpired Artificial Intelligence
